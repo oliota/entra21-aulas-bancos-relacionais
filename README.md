@@ -13,4 +13,4 @@ Repositório com as práticas realizadas em aula
 
 | AULA | ASSUNTO |
 |------|---------|
-|Aula 01 | SGBD , configuração PostgreSql e MySql
+|Aula 01 | SGBD , configuração PostgreSql e MySql 
