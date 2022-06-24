@@ -13,4 +13,6 @@ Repositório com as práticas realizadas em aula
 
 | AULA | ASSUNTO |
 |------|---------|
-|Aula 01 | SGBD , configuração PostgreSql e MySql 
+|Aula 01 | SGBD , configuração PostgreSql , MySql e SqLite
+|Aula 02 | CRUD , DDL e DML
+|Aula 03 | Relacionamento entre tabelas
